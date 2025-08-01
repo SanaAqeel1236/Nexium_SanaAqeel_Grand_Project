@@ -45,7 +45,7 @@
 
 | Layer      | Tech Used            |
 |------------|----------------------|
-| Frontend   | Next.js 14 (App Router), Tailwind, ShadCN UI 
+| Frontend   | Next.js 15 (App Router), Tailwind, ShadCN UI 
 | Backend    | API Routes (Node.js) 
 | Auth       | Supabase Magic Link Auth 
 | Database   | Supabase (structured data), MongoDB (resume text blobs) 
